@@ -81,6 +81,5 @@ public class TestUsuarioDAO {
 		for (Usuario u : lista) {
 			System.out.println(u);
 		}
-
 	}
 }
